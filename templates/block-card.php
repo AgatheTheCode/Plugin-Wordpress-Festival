@@ -26,17 +26,14 @@
                     </svg>
                 </div>
 
-
-
-
                 <div class="card boite-angle">
                     <div class="top-card">
                         <h3>Ouverture des dépôts :</br> Début Février</h3>
-                        <p>Pellentesque dolor felis, finibus id lorem nec, tristique tincidunt dolor.</p>
+                        <p>Déposez vos candidatures et tentez de remporter le prix du Festival.</p>
                     </div>
                     <div class="bottom-card">
                         <h3>Fermeture des dépôts :</br> le 16 mai 2022</h3>
-                        <p>Pellentesque dolor felis, finibus id lorem nec, tristique tincidunt dolor.</p>
+                        <p>Les dés sont lancés, bonne chance !</p>
                     </div>
                 </div>
 
@@ -52,8 +49,8 @@
             <div class="box-bas">
                 <div class="card boite-angle2">
                     <div class="top-card">
-                        <h3>Publication des oeuvres "nommées" : </br> Le 23 mai</h3>
-                        <p>Pellentesque dolor felis, finibus id lorem nec, tristique tincidunt dolor./p>
+                        <h3>Publication des œuvres "nommées" : </br> Le 23 mai</h3>
+                        <p>Les œuvres nominées par le jury seront publiées sur le site.</p>
                     </div>
                 </div>
                 <div class="boite-3">
@@ -64,11 +61,11 @@
                     </div>
                     <div class="card">
                         <div class="top-card">
-                            <h3>Phase d'évaluation par un jury National d'enseignants et de professionnels.</h3>
-                            <p class="date_lieu">!!  JOUR !! juin 2023, à Haguenau</p>
+                            <h3>La cérémonie</h3>
+                            <p class="date_lieu">Le 8 juin 2023, à Haguenau</p>
                         </div>
                         <div class="bottom-card">
-                            <p>Cérémonie du Festival et remise des prix.</p>
+                            <p>Cérémonie de reminse des prix du Festival 2023</p>
                         </div>
                     </div>
                 </div>
