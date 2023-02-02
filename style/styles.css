@@ -1,6 +1,10 @@
 a {
     text-decoration: none;
 }
+.boite-liste{
+    margin:auto!important;
+    width: 80%;
+}
 
 .festival {
     display: flex;
@@ -176,10 +180,12 @@ a {
 
 .color {
     color: #7A26B4 !important;
+    text-decoration: underline!important;
 }
 
 .color:hover {
     color: #D82D7E !important;
+    text-decoration: underline!important;
 }
 
 .arrow {
@@ -279,11 +285,62 @@ a {
         margin-bottom: 1rem;
     }
 
-    .liste{
+    .liste {
         margin: auto;
     }
+
     .line {
         display: flex;
         flex-direction: row;
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+.how-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media(min-width:800px) {
+    .how {
+        width: 100% !important;
+    }
+
+    header {
+        position: sticky !important;
+        top: 0;
+    }
+}
+
+.premium-active-item {
+    text-decoration: wavy underline;
+    text-underline-position: under;
+    text-decoration-color: #D82D7E;
+}
+
+.premium-item-hovered {
+    text-decoration: wavy underline;
+    text-underline-position: under;
+    text-decoration-color: #D82D7E;
+}
+
+.elementor-element-615bfffb .elementor-widget-container p span {
+    text-shadow: 1px 1px 2px #742DA6;
+}
+
+.elementor-element-3f48332 .elementor-widget-container p span {
+    text-shadow: 1px 1px 2px #742DA6;
+}
+
+header {
+    box-shadow: 0px 0px 47px -11px #7C7C7C !important;
 }

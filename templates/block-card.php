@@ -65,7 +65,7 @@
                             <p class="date_lieu">Le 8 juin 2023, à Haguenau</p>
                         </div>
                         <div class="bottom-card">
-                            <p>Cérémonie de reminse des prix du Festival 2023</p>
+                            <p>Cérémonie de remise des prix du Festival 2023</p>
                         </div>
                     </div>
                 </div>

@@ -4,6 +4,7 @@
 <wrapper>
     <div class="flex flex-container ">
         <h1 class="titre">Comment ça marche ?</h1>
+        <div class="boite-liste">
         <ul class="liste">
             <li class="row">
                 <p> <a class="color" href="#"> Inscris-toi </a> dès maintenant</p>
@@ -15,6 +16,7 @@
                 <p><a class="color" href="#"> Participe au concours </a>en déposant tes meilleures réalisations</p>
             </li>
         </ul>
+        </div>
 
     </div>
 </wrapper>
